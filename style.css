@@ -1,0 +1,24 @@
+
+.row {
+	color:blue
+}
+
+.container{
+	width:1200px;
+}
+.black{
+	background-color: black;
+	height:100px;
+	
+}
+.white{
+	height:100px
+}
+
+div.black:hover {
+    background-color: green;
+}
+
+div.white:hover {
+	background-color:dodgerblue;
+}
